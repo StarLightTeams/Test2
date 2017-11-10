@@ -105,6 +105,7 @@
     <Compile Include="Assets\BattleDragon\Dragons\Scripts\player_attack.cs" />
     <Compile Include="Assets\BattleDragon\Dragons\Scripts\player_movement.cs" />
     <Compile Include="Assets\BattleDragon\Scripts\CameraController.cs" />
+    <Compile Include="Assets\BattleDragon\Scripts\StartSceneCamera.cs" />
     <Compile Include="Assets\heroControl.cs" />
     <Compile Include="Assets\KeyboardMove.cs" />
     <Compile Include="Assets\MouseLook.cs" />
